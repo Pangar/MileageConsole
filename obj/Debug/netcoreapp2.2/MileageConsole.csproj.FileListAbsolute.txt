@@ -1,0 +1,11 @@
+C:\Users\agarcia02\source\repos\practice\MileageConsole\bin\Debug\netcoreapp2.2\MileageConsole.deps.json
+C:\Users\agarcia02\source\repos\practice\MileageConsole\bin\Debug\netcoreapp2.2\MileageConsole.runtimeconfig.json
+C:\Users\agarcia02\source\repos\practice\MileageConsole\bin\Debug\netcoreapp2.2\MileageConsole.runtimeconfig.dev.json
+C:\Users\agarcia02\source\repos\practice\MileageConsole\bin\Debug\netcoreapp2.2\MileageConsole.dll
+C:\Users\agarcia02\source\repos\practice\MileageConsole\bin\Debug\netcoreapp2.2\MileageConsole.pdb
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.csprojAssemblyReference.cache
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.csproj.CoreCompileInputs.cache
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.AssemblyInfoInputs.cache
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.AssemblyInfo.cs
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.dll
+C:\Users\agarcia02\source\repos\practice\MileageConsole\obj\Debug\netcoreapp2.2\MileageConsole.pdb
