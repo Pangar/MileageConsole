@@ -5,8 +5,9 @@ namespace MileageConsole
     public class Trip
     {
         public DateTime DateTime;
-        public string startLocation;
-        public string endLocation;
+        public string startLocation { get; set; }
+
+        public string endLocation { get; set; }
     }
 
 }
